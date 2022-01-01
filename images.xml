@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+    <pic>
+        <image>gallery/1.jpg</image>
+        <thumbnail>gallery/s1.jpg</thumbnail>
+	<caption>This caption is in the images.xml file, you can replace it</caption>
+        
+    </pic>
+    <pic>
+        <image>gallery/2.jpg</image>
+        <thumbnail>gallery/s2.jpg</thumbnail>
+        
+    </pic>    
+    <pic>
+        <image>gallery/3.jpg</image>
+        <thumbnail>gallery/s3.jpg</thumbnail>
+        
+    </pic>   
+    <pic>
+        <image>gallery/4.jpg</image>
+        <thumbnail>gallery/s4.jpg</thumbnail>
+        
+    </pic>     
+    <pic>
+        <image>gallery/5.jpg</image>
+        <thumbnail>gallery/s5.jpg</thumbnail>
+        
+    </pic>     
+    <pic>
+        <image>gallery/6.jpg</image>
+        <thumbnail>gallery/s6.jpg</thumbnail>
+       
+    </pic>     
+    <pic>
+        <image>gallery/7.jpg</image>
+        <thumbnail>gallery/s7.jpg</thumbnail>
+        
+    </pic>   
+    <pic>
+        <image>gallery/8.jpg</image>
+        <thumbnail>gallery/s8.jpg</thumbnail>
+        
+    </pic>   
+    <pic>
+        <image>gallery/9.jpg</image>
+        <thumbnail>gallery/s9.jpg</thumbnail>
+        
+    </pic>   
+    <pic>
+        <image>gallery/10.jpg</image>
+        <thumbnail>gallery/s10.jpg</thumbnail>
+        
+    </pic>       
+    <pic>
+        <image>gallery/11.jpg</image>
+        <thumbnail>gallery/s11.jpg</thumbnail>
+       
+    </pic> 
+    <pic>
+        <image>gallery/12.jpg</image>
+        <thumbnail>gallery/s12.jpg</thumbnail>
+       
+    </pic>     
+    <pic>
+        <image>gallery/13.jpg</image>
+        <thumbnail>gallery/s13.jpg</thumbnail>
+        
+    </pic>
+    <pic>
+        <image>gallery/14.jpg</image>
+        <thumbnail>gallery/s14.jpg</thumbnail>
+        
+    </pic> 
+    <pic>
+        <image>gallery/15.jpg</image>
+        <thumbnail>gallery/s15.jpg</thumbnail>
+        
+    </pic>     
+</images>
